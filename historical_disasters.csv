@@ -1,0 +1,601 @@
+incident_id,disaster_type,urgency,injured,affected,resource_need,weather_condition,infrastructure_damage,severity_label
+HIST-0001,Flood,1,2,20,1,High Heat,Minor,Low
+HIST-0002,Flood,3,27,144,10,Clear,Moderate,High
+HIST-0003,Flood,2,10,36,6,High Heat,Minor,Medium
+HIST-0004,Tsunami,2,9,180,4,Rain,Minor,Medium
+HIST-0005,Landslide,2,4,85,4,Clear,Minor,Medium
+HIST-0006,Landslide,1,2,43,2,High Heat,Minor,Low
+HIST-0007,Building Collapse,2,8,50,6,High Heat,Moderate,Medium
+HIST-0008,Industrial Chemical Leak,3,32,135,4,Storm,Moderate,High
+HIST-0009,Flood,4,80,301,20,Extreme Wind,Catastrophic,Critical
+HIST-0010,Industrial Chemical Leak,1,2,18,3,High Heat,Moderate,Low
+HIST-0011,Flood,3,15,373,7,Extreme Wind,Moderate,High
+HIST-0012,Landslide,2,12,172,3,Storm,Severe,Medium
+HIST-0013,Earthquake,2,2,110,5,Clear,Moderate,Medium
+HIST-0014,Wildfire,4,61,698,18,High Heat,Severe,Critical
+HIST-0015,Building Collapse,2,12,147,3,Rain,Moderate,Medium
+HIST-0016,Wildfire,3,27,234,10,Storm,Severe,High
+HIST-0017,Wildfire,4,33,510,23,Clear,Severe,Critical
+HIST-0018,Flood,1,1,55,3,Fog,Moderate,Low
+HIST-0019,Flood,2,11,149,6,Fog,Moderate,Medium
+HIST-0020,Earthquake,3,13,374,8,Clear,Severe,High
+HIST-0021,Cyclone,2,9,30,4,Rain,Severe,Medium
+HIST-0022,Tsunami,4,80,570,17,Rain,Severe,Critical
+HIST-0023,Industrial Chemical Leak,3,27,371,4,Extreme Wind,Severe,High
+HIST-0024,Earthquake,1,2,58,2,Clear,Minor,Low
+HIST-0025,Wildfire,4,30,293,23,Fog,Severe,Critical
+HIST-0026,Urban Fire,1,3,40,1,Fog,Moderate,Low
+HIST-0027,Landslide,4,59,636,14,Extreme Wind,Catastrophic,Critical
+HIST-0028,Industrial Chemical Leak,2,10,145,2,Rain,Minor,Medium
+HIST-0029,Flood,2,11,171,3,Rain,Severe,Medium
+HIST-0030,Earthquake,1,5,8,1,Clear,Minor,Low
+HIST-0031,Industrial Chemical Leak,1,1,22,3,Rain,Moderate,Low
+HIST-0032,Tsunami,1,4,41,2,Extreme Wind,Minor,Low
+HIST-0033,Landslide,1,0,47,2,Extreme Wind,Moderate,Low
+HIST-0034,Landslide,2,13,43,2,Extreme Wind,Minor,Medium
+HIST-0035,Industrial Chemical Leak,3,13,227,7,Fog,Moderate,High
+HIST-0036,Building Collapse,1,1,22,2,Clear,Minor,Low
+HIST-0037,Building Collapse,3,27,150,4,Clear,Moderate,High
+HIST-0038,Wildfire,1,3,35,1,Clear,Moderate,Low
+HIST-0039,Urban Fire,2,8,97,5,Extreme Wind,Moderate,Medium
+HIST-0040,Tsunami,3,25,179,7,Rain,Severe,High
+HIST-0041,Earthquake,3,27,131,9,Clear,Moderate,High
+HIST-0042,Building Collapse,2,15,165,3,Fog,Minor,Medium
+HIST-0043,Flood,4,29,554,10,Extreme Wind,Severe,Critical
+HIST-0044,Flood,4,61,376,9,Extreme Wind,Severe,Critical
+HIST-0045,Tsunami,2,6,82,4,Storm,Minor,Medium
+HIST-0046,Landslide,1,5,24,2,Clear,Moderate,Low
+HIST-0047,Earthquake,2,11,55,2,Rain,Severe,Medium
+HIST-0048,Tsunami,2,7,47,3,Storm,Moderate,Medium
+HIST-0049,Urban Fire,2,10,107,6,Fog,Severe,Medium
+HIST-0050,Earthquake,3,27,253,5,Storm,Moderate,High
+HIST-0051,Flood,4,72,533,12,Storm,Catastrophic,Critical
+HIST-0052,Wildfire,3,16,235,12,Storm,Severe,High
+HIST-0053,Earthquake,1,3,58,2,Clear,Minor,Low
+HIST-0054,Industrial Chemical Leak,3,30,234,6,Fog,Severe,High
+HIST-0055,Landslide,3,13,138,6,Storm,Moderate,High
+HIST-0056,Tsunami,1,1,7,2,Clear,Moderate,Low
+HIST-0057,Industrial Chemical Leak,2,5,56,4,Extreme Wind,Severe,Medium
+HIST-0058,Urban Fire,4,40,692,13,Extreme Wind,Severe,Critical
+HIST-0059,Earthquake,1,2,55,2,Storm,Minor,Low
+HIST-0060,Urban Fire,3,13,295,4,Rain,Severe,High
+HIST-0061,Wildfire,3,24,279,8,Rain,Moderate,High
+HIST-0062,Earthquake,3,22,268,8,Storm,Moderate,High
+HIST-0063,Industrial Chemical Leak,3,22,374,9,Clear,Moderate,High
+HIST-0064,Cyclone,1,2,7,1,Storm,Moderate,Low
+HIST-0065,Industrial Chemical Leak,2,10,59,5,Rain,Severe,Medium
+HIST-0066,Cyclone,1,3,5,3,Storm,Minor,Low
+HIST-0067,Landslide,1,5,26,3,High Heat,Moderate,Low
+HIST-0068,Flood,3,19,359,8,Storm,Severe,High
+HIST-0069,Landslide,3,27,165,7,High Heat,Severe,High
+HIST-0070,Landslide,3,15,254,10,Storm,Moderate,High
+HIST-0071,Cyclone,2,14,178,6,Storm,Severe,Medium
+HIST-0072,Building Collapse,2,12,84,6,High Heat,Moderate,Medium
+HIST-0073,Urban Fire,3,19,363,9,Rain,Moderate,High
+HIST-0074,Cyclone,2,5,67,2,Rain,Minor,Medium
+HIST-0075,Building Collapse,3,34,137,11,High Heat,Severe,High
+HIST-0076,Wildfire,3,22,353,10,Rain,Moderate,High
+HIST-0077,Earthquake,4,80,644,11,Rain,Catastrophic,Critical
+HIST-0078,Urban Fire,3,32,365,11,Fog,Moderate,Critical
+HIST-0079,Wildfire,4,32,483,12,High Heat,Catastrophic,Critical
+HIST-0080,Tsunami,4,63,412,22,Fog,Catastrophic,Critical
+HIST-0081,Building Collapse,4,72,691,23,Storm,Catastrophic,Critical
+HIST-0082,Wildfire,3,18,366,11,Storm,Moderate,High
+HIST-0083,Building Collapse,1,2,20,2,Storm,Moderate,Low
+HIST-0084,Tsunami,1,1,19,2,High Heat,Minor,Low
+HIST-0085,Wildfire,1,3,26,3,Extreme Wind,Moderate,Low
+HIST-0086,Earthquake,2,8,129,6,Clear,Severe,Medium
+HIST-0087,Landslide,2,7,106,5,Fog,Moderate,Medium
+HIST-0088,Tsunami,3,17,349,7,Extreme Wind,Severe,High
+HIST-0089,Building Collapse,1,2,47,3,High Heat,Moderate,Low
+HIST-0090,Urban Fire,3,14,373,4,Fog,Severe,High
+HIST-0091,Earthquake,1,3,13,2,Clear,Minor,Low
+HIST-0092,Cyclone,2,5,146,4,Extreme Wind,Moderate,Medium
+HIST-0093,Cyclone,3,23,229,5,Clear,Severe,High
+HIST-0094,Tsunami,1,2,19,3,High Heat,Minor,Low
+HIST-0095,Earthquake,3,17,202,4,Rain,Moderate,High
+HIST-0096,Urban Fire,2,3,174,3,High Heat,Moderate,Medium
+HIST-0097,Cyclone,3,15,158,6,Clear,Severe,High
+HIST-0098,Earthquake,4,61,596,20,High Heat,Catastrophic,Critical
+HIST-0099,Wildfire,1,5,58,3,Clear,Minor,Low
+HIST-0100,Cyclone,4,63,662,11,Storm,Severe,Critical
+HIST-0101,Tsunami,2,7,47,6,Storm,Severe,Medium
+HIST-0102,Earthquake,3,25,154,10,High Heat,Severe,High
+HIST-0103,Building Collapse,3,23,190,12,Fog,Severe,High
+HIST-0104,Tsunami,3,24,323,8,Rain,Severe,High
+HIST-0105,Flood,2,9,92,5,Fog,Severe,Medium
+HIST-0106,Landslide,2,9,113,3,Rain,Moderate,Medium
+HIST-0107,Industrial Chemical Leak,3,20,243,8,Fog,Moderate,High
+HIST-0108,Wildfire,1,5,31,2,High Heat,Minor,Low
+HIST-0109,Building Collapse,3,25,329,4,Storm,Moderate,High
+HIST-0110,Wildfire,2,5,108,6,Extreme Wind,Moderate,Medium
+HIST-0111,Tsunami,2,8,170,4,High Heat,Moderate,Medium
+HIST-0112,Building Collapse,2,6,89,2,Rain,Severe,Medium
+HIST-0113,Industrial Chemical Leak,1,4,53,3,Rain,Minor,Low
+HIST-0114,Wildfire,3,18,368,8,Rain,Moderate,High
+HIST-0115,Cyclone,2,4,107,2,Fog,Severe,Medium
+HIST-0116,Urban Fire,2,2,171,4,Rain,Severe,Medium
+HIST-0117,Building Collapse,1,0,41,2,Extreme Wind,Moderate,Low
+HIST-0118,Building Collapse,2,2,94,5,Clear,Minor,Medium
+HIST-0119,Landslide,2,11,43,3,Fog,Minor,Medium
+HIST-0120,Cyclone,1,1,12,3,Fog,Moderate,Low
+HIST-0121,Wildfire,3,22,330,11,Fog,Severe,High
+HIST-0122,Landslide,2,11,45,6,Clear,Severe,Medium
+HIST-0123,Wildfire,3,18,141,6,Rain,Moderate,High
+HIST-0124,Tsunami,1,0,31,2,Storm,Moderate,Low
+HIST-0125,Earthquake,2,13,102,5,High Heat,Minor,Medium
+HIST-0126,Wildfire,4,75,655,14,Clear,Catastrophic,Critical
+HIST-0127,Tsunami,2,4,98,3,Clear,Minor,Medium
+HIST-0128,Urban Fire,3,29,247,11,Extreme Wind,Moderate,High
+HIST-0129,Cyclone,3,18,356,12,Extreme Wind,Severe,Critical
+HIST-0130,Flood,3,23,265,8,Clear,Moderate,High
+HIST-0131,Wildfire,4,78,690,8,Fog,Catastrophic,Critical
+HIST-0132,Earthquake,3,15,340,12,Storm,Severe,High
+HIST-0133,Urban Fire,4,52,575,23,Extreme Wind,Severe,Critical
+HIST-0134,Industrial Chemical Leak,2,7,56,3,Extreme Wind,Moderate,Medium
+HIST-0135,Building Collapse,2,8,170,2,Clear,Moderate,Medium
+HIST-0136,Industrial Chemical Leak,2,3,133,6,High Heat,Minor,Medium
+HIST-0137,Tsunami,2,2,78,6,Fog,Moderate,Medium
+HIST-0138,Building Collapse,3,34,126,7,Fog,Severe,High
+HIST-0139,Urban Fire,4,53,700,23,Clear,Severe,Critical
+HIST-0140,Wildfire,3,19,107,12,Clear,Severe,High
+HIST-0141,Wildfire,4,32,486,11,Extreme Wind,Severe,Critical
+HIST-0142,Cyclone,2,6,136,5,Rain,Moderate,Medium
+HIST-0143,Building Collapse,3,22,197,12,Clear,Moderate,High
+HIST-0144,Cyclone,3,23,274,12,Clear,Severe,High
+HIST-0145,Cyclone,3,28,350,6,Fog,Severe,High
+HIST-0146,Building Collapse,2,10,169,5,Storm,Moderate,Medium
+HIST-0147,Wildfire,4,40,542,20,Extreme Wind,Severe,Critical
+HIST-0148,Earthquake,2,9,127,5,High Heat,Severe,Medium
+HIST-0149,Urban Fire,2,2,62,6,Storm,Severe,Medium
+HIST-0150,Flood,4,53,301,24,Clear,Catastrophic,Critical
+HIST-0151,Urban Fire,2,12,69,2,Storm,Moderate,Medium
+HIST-0152,Industrial Chemical Leak,3,22,141,9,Storm,Severe,High
+HIST-0153,Building Collapse,4,27,566,10,High Heat,Severe,Critical
+HIST-0154,Cyclone,4,72,296,21,High Heat,Severe,Critical
+HIST-0155,Flood,2,13,106,2,Storm,Minor,Medium
+HIST-0156,Earthquake,2,7,140,3,Fog,Minor,Medium
+HIST-0157,Landslide,3,35,192,6,Clear,Moderate,High
+HIST-0158,Landslide,3,17,354,6,Extreme Wind,Moderate,High
+HIST-0159,Cyclone,2,12,32,5,High Heat,Moderate,Medium
+HIST-0160,Tsunami,1,3,27,3,High Heat,Moderate,Low
+HIST-0161,Landslide,3,24,254,7,Extreme Wind,Severe,High
+HIST-0162,Flood,2,11,121,6,High Heat,Moderate,Medium
+HIST-0163,Cyclone,1,5,30,2,Fog,Minor,Low
+HIST-0164,Earthquake,4,72,504,17,Fog,Severe,Critical
+HIST-0165,Industrial Chemical Leak,2,5,94,3,Clear,Severe,Medium
+HIST-0166,Earthquake,2,9,38,6,High Heat,Moderate,Medium
+HIST-0167,Urban Fire,1,2,25,3,Rain,Moderate,Low
+HIST-0168,Wildfire,1,4,28,3,Rain,Moderate,Low
+HIST-0169,Cyclone,4,55,745,17,Clear,Catastrophic,Critical
+HIST-0170,Building Collapse,4,34,636,15,Fog,Catastrophic,Critical
+HIST-0171,Industrial Chemical Leak,1,3,5,2,Extreme Wind,Minor,Low
+HIST-0172,Industrial Chemical Leak,3,31,234,10,Clear,Severe,High
+HIST-0173,Wildfire,2,11,173,4,Rain,Severe,Medium
+HIST-0174,Flood,3,24,254,10,Rain,Moderate,High
+HIST-0175,Earthquake,4,44,502,11,Rain,Severe,Critical
+HIST-0176,Tsunami,1,3,28,3,Fog,Moderate,Low
+HIST-0177,Urban Fire,4,66,300,23,Storm,Catastrophic,Critical
+HIST-0178,Earthquake,3,16,327,11,Storm,Moderate,High
+HIST-0179,Flood,4,48,528,19,Extreme Wind,Severe,Critical
+HIST-0180,Cyclone,1,0,59,2,High Heat,Minor,Low
+HIST-0181,Wildfire,3,29,110,4,Rain,Severe,High
+HIST-0182,Urban Fire,3,16,135,12,Fog,Moderate,High
+HIST-0183,Wildfire,3,17,268,6,Storm,Moderate,High
+HIST-0184,Urban Fire,4,59,378,13,High Heat,Severe,Critical
+HIST-0185,Earthquake,1,2,55,1,Clear,Moderate,Low
+HIST-0186,Urban Fire,2,4,137,6,High Heat,Minor,Medium
+HIST-0187,Flood,2,14,122,6,Clear,Severe,Medium
+HIST-0188,Building Collapse,2,11,41,6,Extreme Wind,Moderate,Medium
+HIST-0189,Earthquake,1,3,59,2,High Heat,Moderate,Low
+HIST-0190,Flood,2,9,48,2,Fog,Moderate,Medium
+HIST-0191,Urban Fire,1,2,44,3,Extreme Wind,Moderate,Low
+HIST-0192,Tsunami,2,10,140,2,Clear,Severe,Medium
+HIST-0193,Tsunami,3,16,320,11,Extreme Wind,Moderate,High
+HIST-0194,Industrial Chemical Leak,3,22,312,5,Extreme Wind,Severe,High
+HIST-0195,Industrial Chemical Leak,3,21,178,11,Clear,Moderate,High
+HIST-0196,Flood,1,0,52,3,Rain,Moderate,Low
+HIST-0197,Tsunami,1,4,40,2,Extreme Wind,Minor,Low
+HIST-0198,Industrial Chemical Leak,4,73,466,9,Fog,Catastrophic,Critical
+HIST-0199,Cyclone,2,11,159,3,High Heat,Minor,Medium
+HIST-0200,Building Collapse,2,3,119,6,Clear,Moderate,Medium
+HIST-0201,Cyclone,3,35,319,12,Fog,Moderate,Critical
+HIST-0202,Cyclone,1,2,49,2,Storm,Moderate,Low
+HIST-0203,Earthquake,1,1,41,3,Clear,Moderate,Low
+HIST-0204,Urban Fire,3,10,146,12,Extreme Wind,Moderate,High
+HIST-0205,Landslide,2,4,124,4,Storm,Severe,Medium
+HIST-0206,Flood,4,34,330,9,Storm,Severe,Critical
+HIST-0207,Building Collapse,3,25,326,10,Rain,Severe,High
+HIST-0208,Tsunami,1,3,12,2,Fog,Moderate,Low
+HIST-0209,Cyclone,1,3,43,1,Rain,Minor,Low
+HIST-0210,Cyclone,4,74,320,16,Storm,Catastrophic,Critical
+HIST-0211,Flood,1,5,32,1,Extreme Wind,Minor,Low
+HIST-0212,Tsunami,3,26,281,5,High Heat,Severe,High
+HIST-0213,Earthquake,2,9,49,4,Extreme Wind,Severe,Medium
+HIST-0214,Landslide,3,23,248,5,Clear,Severe,High
+HIST-0215,Industrial Chemical Leak,1,4,34,3,Clear,Moderate,Low
+HIST-0216,Landslide,3,17,323,10,Extreme Wind,Moderate,High
+HIST-0217,Cyclone,3,17,270,6,Fog,Moderate,High
+HIST-0218,Flood,2,5,119,4,High Heat,Severe,Medium
+HIST-0219,Urban Fire,2,4,95,3,Fog,Minor,Medium
+HIST-0220,Urban Fire,3,30,138,6,Extreme Wind,Severe,High
+HIST-0221,Building Collapse,3,28,265,9,Extreme Wind,Moderate,High
+HIST-0222,Flood,2,12,107,4,Clear,Severe,Medium
+HIST-0223,Industrial Chemical Leak,2,6,148,5,Clear,Minor,Medium
+HIST-0224,Industrial Chemical Leak,3,12,146,12,Extreme Wind,Severe,High
+HIST-0225,Tsunami,4,72,708,9,Fog,Catastrophic,Critical
+HIST-0226,Wildfire,2,9,158,3,Extreme Wind,Minor,Medium
+HIST-0227,Flood,3,20,143,12,Clear,Moderate,High
+HIST-0228,Wildfire,3,24,368,12,Storm,Moderate,Critical
+HIST-0229,Industrial Chemical Leak,4,49,459,18,High Heat,Severe,Critical
+HIST-0230,Industrial Chemical Leak,1,0,40,3,Storm,Moderate,Low
+HIST-0231,Cyclone,3,31,176,9,Fog,Moderate,High
+HIST-0232,Urban Fire,4,44,745,20,Fog,Severe,Critical
+HIST-0233,Flood,2,8,114,3,High Heat,Severe,Medium
+HIST-0234,Tsunami,1,5,32,3,Clear,Moderate,Low
+HIST-0235,Industrial Chemical Leak,2,5,117,5,Rain,Minor,Medium
+HIST-0236,Urban Fire,1,2,59,1,High Heat,Minor,Low
+HIST-0237,Industrial Chemical Leak,4,64,317,20,Rain,Severe,Critical
+HIST-0238,Urban Fire,3,34,184,11,Extreme Wind,Moderate,High
+HIST-0239,Industrial Chemical Leak,3,17,327,8,Rain,Severe,High
+HIST-0240,Tsunami,2,14,150,3,High Heat,Moderate,Medium
+HIST-0241,Building Collapse,2,6,127,6,Extreme Wind,Severe,Medium
+HIST-0242,Urban Fire,3,35,170,8,High Heat,Moderate,High
+HIST-0243,Building Collapse,4,60,728,11,Storm,Severe,Critical
+HIST-0244,Flood,3,18,330,12,Extreme Wind,Moderate,Critical
+HIST-0245,Flood,4,39,668,22,Clear,Catastrophic,Critical
+HIST-0246,Landslide,1,4,28,1,Clear,Moderate,Low
+HIST-0247,Industrial Chemical Leak,2,7,55,4,Rain,Minor,Medium
+HIST-0248,Earthquake,2,15,150,3,Extreme Wind,Severe,Medium
+HIST-0249,Building Collapse,3,12,109,8,Rain,Moderate,High
+HIST-0250,Tsunami,4,63,520,21,Storm,Severe,Critical
+HIST-0251,Wildfire,2,2,91,5,Fog,Severe,Medium
+HIST-0252,Building Collapse,1,3,43,3,High Heat,Minor,Low
+HIST-0253,Tsunami,3,32,173,8,Clear,Severe,High
+HIST-0254,Industrial Chemical Leak,2,8,77,2,Storm,Severe,Medium
+HIST-0255,Flood,4,59,509,24,Extreme Wind,Severe,Critical
+HIST-0256,Building Collapse,1,3,28,2,Storm,Minor,Low
+HIST-0257,Flood,2,13,56,6,Storm,Severe,Medium
+HIST-0258,Urban Fire,1,4,26,3,High Heat,Minor,Low
+HIST-0259,Building Collapse,4,55,573,13,Clear,Severe,Critical
+HIST-0260,Building Collapse,1,1,7,1,Storm,Minor,Low
+HIST-0261,Cyclone,2,15,169,5,Clear,Moderate,Medium
+HIST-0262,Wildfire,2,15,42,4,Clear,Moderate,Medium
+HIST-0263,Industrial Chemical Leak,2,8,142,5,Rain,Moderate,Medium
+HIST-0264,Building Collapse,3,21,365,8,High Heat,Moderate,High
+HIST-0265,Landslide,1,4,57,1,Storm,Moderate,Low
+HIST-0266,Flood,1,5,23,2,Fog,Moderate,Low
+HIST-0267,Landslide,1,3,27,2,High Heat,Minor,Low
+HIST-0268,Industrial Chemical Leak,3,23,240,4,High Heat,Moderate,High
+HIST-0269,Landslide,2,14,70,2,Fog,Minor,Medium
+HIST-0270,Building Collapse,1,0,20,3,Storm,Moderate,Low
+HIST-0271,Landslide,4,27,559,12,Storm,Catastrophic,Critical
+HIST-0272,Industrial Chemical Leak,2,3,176,3,Storm,Severe,Medium
+HIST-0273,Landslide,2,6,93,2,High Heat,Minor,Medium
+HIST-0274,Urban Fire,2,8,173,2,Storm,Moderate,Medium
+HIST-0275,Building Collapse,2,11,103,5,Clear,Minor,Medium
+HIST-0276,Urban Fire,4,53,338,22,High Heat,Severe,Critical
+HIST-0277,Industrial Chemical Leak,3,32,133,12,Storm,Severe,High
+HIST-0278,Urban Fire,3,32,189,9,Clear,Moderate,High
+HIST-0279,Wildfire,3,17,352,4,Fog,Severe,High
+HIST-0280,Industrial Chemical Leak,2,10,63,6,Clear,Minor,Medium
+HIST-0281,Cyclone,2,13,152,6,Extreme Wind,Moderate,Medium
+HIST-0282,Flood,1,2,46,1,Extreme Wind,Moderate,Low
+HIST-0283,Tsunami,2,15,171,6,Rain,Minor,Medium
+HIST-0284,Landslide,2,15,44,2,Rain,Severe,Medium
+HIST-0285,Cyclone,1,2,50,1,Fog,Moderate,Low
+HIST-0286,Cyclone,3,18,200,12,Rain,Severe,High
+HIST-0287,Cyclone,3,12,357,6,Rain,Moderate,High
+HIST-0288,Industrial Chemical Leak,3,28,121,4,Clear,Moderate,High
+HIST-0289,Cyclone,3,34,313,4,High Heat,Severe,High
+HIST-0290,Tsunami,2,6,153,3,Extreme Wind,Severe,Medium
+HIST-0291,Cyclone,2,13,45,3,Extreme Wind,Moderate,Medium
+HIST-0292,Building Collapse,2,7,66,4,Storm,Severe,Medium
+HIST-0293,Industrial Chemical Leak,4,33,639,19,Storm,Severe,Critical
+HIST-0294,Wildfire,2,6,145,3,Clear,Minor,Medium
+HIST-0295,Earthquake,2,8,137,3,Storm,Minor,Medium
+HIST-0296,Industrial Chemical Leak,1,1,36,3,Extreme Wind,Moderate,Low
+HIST-0297,Cyclone,2,3,130,6,Rain,Moderate,Medium
+HIST-0298,Wildfire,3,11,125,8,Fog,Severe,High
+HIST-0299,Building Collapse,2,2,57,5,Storm,Minor,Medium
+HIST-0300,Industrial Chemical Leak,3,21,123,10,Fog,Moderate,High
+HIST-0301,Tsunami,1,4,23,1,Fog,Moderate,Low
+HIST-0302,Building Collapse,3,18,160,6,Extreme Wind,Moderate,High
+HIST-0303,Industrial Chemical Leak,3,20,287,6,Fog,Moderate,High
+HIST-0304,Tsunami,2,2,41,2,High Heat,Minor,Low
+HIST-0305,Industrial Chemical Leak,3,26,333,6,Storm,Moderate,High
+HIST-0306,Industrial Chemical Leak,1,4,52,2,Fog,Moderate,Low
+HIST-0307,Tsunami,2,13,174,4,Clear,Moderate,Medium
+HIST-0308,Industrial Chemical Leak,2,3,136,6,High Heat,Moderate,Medium
+HIST-0309,Earthquake,3,18,216,4,Rain,Severe,High
+HIST-0310,Tsunami,3,29,294,6,Clear,Moderate,High
+HIST-0311,Flood,1,3,25,2,Extreme Wind,Minor,Low
+HIST-0312,Wildfire,2,14,150,2,Rain,Severe,Medium
+HIST-0313,Tsunami,2,7,152,6,Storm,Moderate,Medium
+HIST-0314,Urban Fire,2,10,117,6,High Heat,Moderate,Medium
+HIST-0315,Cyclone,3,16,226,8,Rain,Severe,High
+HIST-0316,Cyclone,3,32,206,11,Extreme Wind,Severe,Critical
+HIST-0317,Industrial Chemical Leak,3,35,240,8,Fog,Moderate,High
+HIST-0318,Tsunami,2,8,118,3,Clear,Moderate,Medium
+HIST-0319,Cyclone,4,30,427,22,High Heat,Catastrophic,Critical
+HIST-0320,Building Collapse,2,15,167,4,High Heat,Severe,Medium
+HIST-0321,Cyclone,1,4,52,3,Rain,Minor,Low
+HIST-0322,Earthquake,3,26,215,7,Clear,Moderate,High
+HIST-0323,Landslide,2,9,55,3,Fog,Minor,Medium
+HIST-0324,Urban Fire,2,9,152,3,Storm,Moderate,Medium
+HIST-0325,Cyclone,3,34,145,7,Rain,Moderate,High
+HIST-0326,Landslide,4,36,728,9,Extreme Wind,Catastrophic,Critical
+HIST-0327,Urban Fire,4,80,724,17,Clear,Severe,Critical
+HIST-0328,Cyclone,3,13,271,8,High Heat,Severe,High
+HIST-0329,Tsunami,2,4,159,5,Rain,Moderate,Medium
+HIST-0330,Flood,2,13,147,4,Rain,Severe,Medium
+HIST-0331,Earthquake,3,35,251,7,Fog,Moderate,High
+HIST-0332,Landslide,3,26,267,5,High Heat,Severe,High
+HIST-0333,Flood,1,1,35,2,Clear,Minor,Low
+HIST-0334,Cyclone,2,9,98,4,Fog,Moderate,Medium
+HIST-0335,Earthquake,2,7,90,2,Clear,Severe,Medium
+HIST-0336,Building Collapse,2,8,158,4,Clear,Severe,Medium
+HIST-0337,Cyclone,2,5,86,3,Rain,Moderate,Medium
+HIST-0338,Building Collapse,3,29,291,10,Fog,Severe,High
+HIST-0339,Wildfire,3,31,141,12,Fog,Severe,High
+HIST-0340,Industrial Chemical Leak,1,4,12,1,Fog,Minor,Low
+HIST-0341,Tsunami,1,2,59,3,Clear,Moderate,Low
+HIST-0342,Wildfire,3,25,146,12,Clear,Severe,High
+HIST-0343,Building Collapse,1,3,34,3,Fog,Minor,Low
+HIST-0344,Building Collapse,3,19,111,10,Clear,Severe,High
+HIST-0345,Wildfire,3,11,316,9,Fog,Moderate,High
+HIST-0346,Earthquake,4,29,728,23,Storm,Severe,Critical
+HIST-0347,Landslide,1,1,54,3,Storm,Moderate,Low
+HIST-0348,Landslide,2,8,126,2,High Heat,Severe,Medium
+HIST-0349,Tsunami,1,2,12,1,Fog,Moderate,Low
+HIST-0350,Urban Fire,3,17,101,4,Extreme Wind,Severe,High
+HIST-0351,Tsunami,2,8,88,3,Storm,Moderate,Medium
+HIST-0352,Urban Fire,2,13,58,2,Extreme Wind,Severe,Medium
+HIST-0353,Earthquake,2,3,55,6,Extreme Wind,Minor,Medium
+HIST-0354,Earthquake,2,2,132,5,Fog,Minor,Medium
+HIST-0355,Wildfire,3,34,128,6,Rain,Severe,High
+HIST-0356,Industrial Chemical Leak,3,34,264,7,Rain,Severe,High
+HIST-0357,Tsunami,2,6,100,2,Fog,Severe,Medium
+HIST-0358,Urban Fire,3,23,353,4,High Heat,Severe,High
+HIST-0359,Landslide,3,20,313,10,Storm,Moderate,High
+HIST-0360,Landslide,1,4,35,1,Storm,Minor,Low
+HIST-0361,Urban Fire,3,11,311,10,Extreme Wind,Moderate,High
+HIST-0362,Wildfire,2,7,50,5,Clear,Moderate,Medium
+HIST-0363,Tsunami,3,16,126,8,High Heat,Severe,High
+HIST-0364,Earthquake,4,37,661,25,Extreme Wind,Severe,Critical
+HIST-0365,Wildfire,4,46,405,8,Rain,Severe,Critical
+HIST-0366,Flood,3,34,345,7,Extreme Wind,Moderate,Critical
+HIST-0367,Wildfire,3,34,244,10,Fog,Severe,High
+HIST-0368,Industrial Chemical Leak,2,7,161,5,Clear,Moderate,Medium
+HIST-0369,Building Collapse,3,20,204,9,Extreme Wind,Severe,High
+HIST-0370,Earthquake,3,17,174,4,Fog,Severe,High
+HIST-0371,Landslide,2,5,114,3,Fog,Moderate,Medium
+HIST-0372,Wildfire,2,12,116,4,High Heat,Moderate,Medium
+HIST-0373,Building Collapse,2,13,120,3,High Heat,Minor,Medium
+HIST-0374,Tsunami,2,10,45,6,Clear,Minor,Medium
+HIST-0375,Earthquake,3,23,170,7,High Heat,Moderate,High
+HIST-0376,Urban Fire,1,4,34,2,Fog,Minor,Low
+HIST-0377,Building Collapse,3,10,103,12,Clear,Severe,High
+HIST-0378,Earthquake,2,6,167,4,Fog,Minor,Medium
+HIST-0379,Landslide,3,15,154,5,Rain,Moderate,High
+HIST-0380,Wildfire,3,18,281,8,Clear,Severe,High
+HIST-0381,Industrial Chemical Leak,4,54,539,15,Storm,Severe,Critical
+HIST-0382,Flood,3,30,116,5,Extreme Wind,Severe,High
+HIST-0383,Landslide,3,11,104,6,Extreme Wind,Moderate,Medium
+HIST-0384,Landslide,3,20,148,12,Rain,Moderate,High
+HIST-0385,Wildfire,4,69,704,23,Clear,Catastrophic,Critical
+HIST-0386,Flood,3,18,378,4,Storm,Moderate,High
+HIST-0387,Earthquake,4,62,323,20,Storm,Severe,Critical
+HIST-0388,Urban Fire,3,28,299,12,Extreme Wind,Severe,High
+HIST-0389,Urban Fire,3,32,140,12,Clear,Severe,High
+HIST-0390,Flood,2,15,49,4,Fog,Severe,Medium
+HIST-0391,Landslide,4,45,265,16,Extreme Wind,Catastrophic,Critical
+HIST-0392,Wildfire,2,8,140,3,Fog,Severe,Medium
+HIST-0393,Landslide,1,4,23,1,Clear,Minor,Low
+HIST-0394,Cyclone,1,5,55,3,High Heat,Minor,Low
+HIST-0395,Landslide,2,3,53,2,Extreme Wind,Moderate,Medium
+HIST-0396,Industrial Chemical Leak,3,13,167,5,Extreme Wind,Moderate,High
+HIST-0397,Building Collapse,3,26,308,5,Clear,Moderate,High
+HIST-0398,Industrial Chemical Leak,3,29,266,10,Storm,Moderate,High
+HIST-0399,Landslide,2,3,173,3,Fog,Severe,Medium
+HIST-0400,Urban Fire,3,15,171,8,Storm,Severe,High
+HIST-0401,Building Collapse,1,1,32,2,Storm,Moderate,Low
+HIST-0402,Building Collapse,3,21,228,7,Fog,Severe,High
+HIST-0403,Wildfire,2,4,107,2,Storm,Moderate,Medium
+HIST-0404,Landslide,3,20,325,9,High Heat,Severe,High
+HIST-0405,Urban Fire,2,11,81,5,Rain,Moderate,Medium
+HIST-0406,Landslide,4,43,626,23,Storm,Severe,Critical
+HIST-0407,Landslide,2,14,130,4,Fog,Minor,Medium
+HIST-0408,Wildfire,3,27,192,12,High Heat,Moderate,High
+HIST-0409,Building Collapse,4,38,474,17,Extreme Wind,Severe,Critical
+HIST-0410,Building Collapse,1,2,20,2,High Heat,Minor,Low
+HIST-0411,Landslide,3,12,329,11,Fog,Severe,High
+HIST-0412,Tsunami,4,80,604,21,Storm,Severe,Critical
+HIST-0413,Tsunami,3,12,155,7,Rain,Severe,High
+HIST-0414,Earthquake,3,30,304,9,Clear,Severe,High
+HIST-0415,Earthquake,1,1,37,3,Extreme Wind,Minor,Low
+HIST-0416,Industrial Chemical Leak,2,14,180,6,Storm,Minor,Medium
+HIST-0417,Earthquake,2,6,136,2,High Heat,Minor,Medium
+HIST-0418,Urban Fire,2,7,146,3,Extreme Wind,Severe,Medium
+HIST-0419,Industrial Chemical Leak,2,9,145,4,Storm,Minor,Medium
+HIST-0420,Earthquake,3,13,111,9,High Heat,Moderate,High
+HIST-0421,Urban Fire,4,72,374,24,Fog,Severe,Critical
+HIST-0422,Urban Fire,2,8,148,3,High Heat,Moderate,Medium
+HIST-0423,Urban Fire,1,5,32,2,High Heat,Minor,Low
+HIST-0424,Wildfire,2,8,129,2,Rain,Severe,Medium
+HIST-0425,Wildfire,2,13,46,6,Fog,Minor,Medium
+HIST-0426,Urban Fire,2,5,147,2,High Heat,Moderate,Medium
+HIST-0427,Building Collapse,2,12,110,6,Fog,Moderate,Medium
+HIST-0428,Landslide,3,21,280,11,High Heat,Moderate,High
+HIST-0429,Cyclone,4,62,293,12,Clear,Catastrophic,Critical
+HIST-0430,Wildfire,2,4,125,3,Extreme Wind,Severe,Medium
+HIST-0431,Landslide,3,28,296,10,Extreme Wind,Moderate,High
+HIST-0432,Tsunami,3,30,188,12,Extreme Wind,Moderate,High
+HIST-0433,Cyclone,1,2,58,2,Storm,Minor,Low
+HIST-0434,Earthquake,2,5,128,6,High Heat,Severe,Medium
+HIST-0435,Building Collapse,2,9,136,5,Rain,Moderate,Medium
+HIST-0436,Flood,3,35,212,8,Storm,Moderate,Critical
+HIST-0437,Wildfire,2,4,147,6,Extreme Wind,Severe,Medium
+HIST-0438,Tsunami,2,11,59,4,Storm,Severe,Medium
+HIST-0439,Tsunami,3,11,325,12,Extreme Wind,Moderate,High
+HIST-0440,Flood,3,30,226,8,Extreme Wind,Moderate,Critical
+HIST-0441,Cyclone,2,15,52,5,Rain,Minor,Medium
+HIST-0442,Wildfire,3,28,279,10,Fog,Moderate,High
+HIST-0443,Urban Fire,3,16,130,9,Fog,Severe,High
+HIST-0444,Tsunami,1,5,23,2,Fog,Moderate,Low
+HIST-0445,Flood,1,3,8,2,High Heat,Minor,Low
+HIST-0446,Urban Fire,2,13,112,3,Extreme Wind,Severe,Medium
+HIST-0447,Building Collapse,1,5,22,3,Extreme Wind,Moderate,Low
+HIST-0448,Building Collapse,1,0,30,3,High Heat,Moderate,Low
+HIST-0449,Industrial Chemical Leak,2,9,113,6,High Heat,Minor,Medium
+HIST-0450,Flood,3,24,283,5,Rain,Severe,High
+HIST-0451,Landslide,3,25,237,9,Storm,Severe,High
+HIST-0452,Tsunami,3,28,348,9,Clear,Moderate,High
+HIST-0453,Flood,3,24,108,5,Extreme Wind,Moderate,High
+HIST-0454,Building Collapse,1,3,17,3,High Heat,Minor,Low
+HIST-0455,Cyclone,1,2,10,3,Storm,Moderate,Low
+HIST-0456,Flood,2,12,72,2,High Heat,Moderate,Medium
+HIST-0457,Cyclone,3,34,219,10,High Heat,Moderate,High
+HIST-0458,Flood,1,3,9,1,Fog,Minor,Low
+HIST-0459,Building Collapse,1,5,26,1,High Heat,Moderate,Low
+HIST-0460,Urban Fire,2,5,128,2,Clear,Severe,Medium
+HIST-0461,Flood,2,6,65,5,High Heat,Minor,Medium
+HIST-0462,Urban Fire,1,4,5,3,Extreme Wind,Minor,Low
+HIST-0463,Industrial Chemical Leak,3,30,177,10,Rain,Severe,High
+HIST-0464,Flood,4,33,635,11,Storm,Catastrophic,Critical
+HIST-0465,Landslide,2,4,93,4,Clear,Severe,Medium
+HIST-0466,Wildfire,3,29,245,4,Rain,Severe,High
+HIST-0467,Tsunami,3,16,300,8,Rain,Moderate,High
+HIST-0468,Building Collapse,2,5,157,6,Fog,Minor,Medium
+HIST-0469,Earthquake,4,45,317,20,Storm,Catastrophic,Critical
+HIST-0470,Tsunami,3,34,341,5,Fog,Moderate,High
+HIST-0471,Flood,1,1,7,1,Fog,Moderate,Low
+HIST-0472,Cyclone,3,26,312,10,Clear,Severe,High
+HIST-0473,Tsunami,2,4,101,2,Clear,Moderate,Medium
+HIST-0474,Tsunami,4,76,329,25,Extreme Wind,Catastrophic,Critical
+HIST-0475,Flood,2,8,91,2,Clear,Minor,Medium
+HIST-0476,Landslide,1,4,43,1,High Heat,Moderate,Low
+HIST-0477,Urban Fire,1,5,13,3,Rain,Minor,Low
+HIST-0478,Building Collapse,4,58,514,16,Storm,Severe,Critical
+HIST-0479,Urban Fire,3,18,160,4,Extreme Wind,Severe,High
+HIST-0480,Cyclone,2,6,177,2,Extreme Wind,Moderate,Medium
+HIST-0481,Tsunami,2,9,175,3,Rain,Moderate,Medium
+HIST-0482,Cyclone,3,28,159,7,Clear,Moderate,High
+HIST-0483,Earthquake,2,9,123,5,Rain,Minor,Medium
+HIST-0484,Earthquake,3,32,314,7,Rain,Severe,High
+HIST-0485,Landslide,4,45,388,10,Clear,Catastrophic,Critical
+HIST-0486,Tsunami,3,11,191,7,Extreme Wind,Moderate,High
+HIST-0487,Flood,4,80,394,17,Clear,Catastrophic,Critical
+HIST-0488,Tsunami,2,7,81,4,Storm,Severe,Medium
+HIST-0489,Wildfire,2,11,156,3,Fog,Severe,Medium
+HIST-0490,Wildfire,1,3,6,1,High Heat,Moderate,Low
+HIST-0491,Earthquake,4,25,638,20,Clear,Catastrophic,Critical
+HIST-0492,Wildfire,2,5,137,5,Rain,Minor,Medium
+HIST-0493,Cyclone,1,1,59,3,High Heat,Moderate,Low
+HIST-0494,Industrial Chemical Leak,2,13,51,6,Fog,Minor,Medium
+HIST-0495,Urban Fire,3,22,138,4,High Heat,Severe,High
+HIST-0496,Urban Fire,2,6,110,5,High Heat,Severe,Medium
+HIST-0497,Industrial Chemical Leak,2,6,89,2,Rain,Minor,Medium
+HIST-0498,Flood,1,1,33,2,Extreme Wind,Moderate,Low
+HIST-0499,Flood,2,14,83,5,Extreme Wind,Moderate,Medium
+HIST-0500,Cyclone,4,30,330,17,Rain,Severe,Critical
+HIST-0501,Industrial Chemical Leak,1,5,20,2,Fog,Moderate,Low
+HIST-0502,Earthquake,3,18,189,4,Extreme Wind,Severe,High
+HIST-0503,Tsunami,3,17,148,11,Rain,Moderate,High
+HIST-0504,Flood,1,1,13,1,Storm,Moderate,Low
+HIST-0505,Flood,3,18,138,4,Rain,Moderate,High
+HIST-0506,Building Collapse,3,12,269,5,Extreme Wind,Moderate,High
+HIST-0507,Earthquake,1,4,32,3,Extreme Wind,Moderate,Low
+HIST-0508,Earthquake,2,8,74,4,Rain,Minor,Medium
+HIST-0509,Cyclone,2,4,38,6,Fog,Severe,Medium
+HIST-0510,Wildfire,3,25,310,12,Clear,Severe,High
+HIST-0511,Flood,2,4,137,3,Fog,Severe,Medium
+HIST-0512,Wildfire,3,35,378,4,High Heat,Severe,Critical
+HIST-0513,Industrial Chemical Leak,2,14,154,4,Fog,Severe,Medium
+HIST-0514,Industrial Chemical Leak,2,4,36,4,Rain,Severe,Medium
+HIST-0515,Earthquake,4,74,393,9,Fog,Catastrophic,Critical
+HIST-0516,Industrial Chemical Leak,3,17,181,5,High Heat,Moderate,High
+HIST-0517,Wildfire,2,15,44,3,Extreme Wind,Severe,Medium
+HIST-0518,Industrial Chemical Leak,4,79,338,13,Fog,Severe,Critical
+HIST-0519,Industrial Chemical Leak,3,32,283,4,Fog,Severe,High
+HIST-0520,Urban Fire,3,16,352,12,Rain,Severe,High
+HIST-0521,Building Collapse,1,0,19,3,Clear,Minor,Low
+HIST-0522,Tsunami,2,7,81,3,High Heat,Moderate,Medium
+HIST-0523,Urban Fire,4,79,694,18,Clear,Severe,Critical
+HIST-0524,Urban Fire,3,14,156,12,Clear,Severe,High
+HIST-0525,Industrial Chemical Leak,3,31,302,5,Storm,Severe,High
+HIST-0526,Industrial Chemical Leak,1,1,51,2,High Heat,Moderate,Low
+HIST-0527,Industrial Chemical Leak,1,4,49,3,Rain,Moderate,Low
+HIST-0528,Urban Fire,2,13,105,3,High Heat,Minor,Medium
+HIST-0529,Earthquake,4,61,450,9,Fog,Severe,Critical
+HIST-0530,Industrial Chemical Leak,4,64,363,11,Rain,Catastrophic,Critical
+HIST-0531,Industrial Chemical Leak,3,17,277,9,High Heat,Moderate,High
+HIST-0532,Flood,3,31,271,11,Storm,Moderate,Critical
+HIST-0533,Wildfire,2,3,119,4,High Heat,Minor,Medium
+HIST-0534,Earthquake,1,3,51,2,Extreme Wind,Minor,Low
+HIST-0535,Building Collapse,4,47,529,20,Extreme Wind,Severe,Critical
+HIST-0536,Wildfire,1,0,56,1,Clear,Moderate,Low
+HIST-0537,Industrial Chemical Leak,2,3,48,4,Extreme Wind,Minor,Medium
+HIST-0538,Urban Fire,3,27,147,9,High Heat,Severe,High
+HIST-0539,Earthquake,2,12,72,6,Rain,Moderate,Medium
+HIST-0540,Earthquake,1,1,17,2,High Heat,Moderate,Low
+HIST-0541,Cyclone,2,3,42,5,Fog,Severe,Medium
+HIST-0542,Building Collapse,1,2,5,2,Storm,Minor,Low
+HIST-0543,Building Collapse,1,0,18,1,Clear,Moderate,Low
+HIST-0544,Building Collapse,3,19,303,11,High Heat,Severe,High
+HIST-0545,Cyclone,1,4,29,1,Extreme Wind,Moderate,Low
+HIST-0546,Industrial Chemical Leak,1,0,21,2,Storm,Moderate,Low
+HIST-0547,Wildfire,3,28,131,6,Clear,Moderate,High
+HIST-0548,Industrial Chemical Leak,3,23,216,12,Extreme Wind,Moderate,High
+HIST-0549,Tsunami,2,10,151,6,Extreme Wind,Minor,Medium
+HIST-0550,Cyclone,1,5,7,3,Clear,Minor,Low
+HIST-0551,Building Collapse,1,1,18,1,Clear,Minor,Low
+HIST-0552,Landslide,1,5,32,1,Fog,Minor,Low
+HIST-0553,Cyclone,2,13,47,2,Fog,Moderate,Medium
+HIST-0554,Landslide,3,18,366,11,High Heat,Moderate,High
+HIST-0555,Tsunami,3,13,312,6,Fog,Moderate,High
+HIST-0556,Flood,4,61,649,11,Fog,Catastrophic,Critical
+HIST-0557,Industrial Chemical Leak,4,41,446,23,Clear,Catastrophic,Critical
+HIST-0558,Urban Fire,2,4,132,2,Storm,Moderate,Medium
+HIST-0559,Wildfire,1,3,22,2,Storm,Minor,Low
+HIST-0560,Cyclone,2,15,155,2,Rain,Minor,Medium
+HIST-0561,Cyclone,4,53,646,18,High Heat,Catastrophic,Critical
+HIST-0562,Landslide,3,12,196,11,Extreme Wind,Moderate,High
+HIST-0563,Building Collapse,3,21,128,12,Clear,Moderate,High
+HIST-0564,Cyclone,3,22,169,12,Rain,Moderate,High
+HIST-0565,Wildfire,4,37,678,9,Clear,Severe,Critical
+HIST-0566,Building Collapse,1,2,50,1,Storm,Moderate,Low
+HIST-0567,Building Collapse,2,12,61,2,Storm,Minor,Medium
+HIST-0568,Building Collapse,3,15,342,12,Storm,Severe,High
+HIST-0569,Urban Fire,3,18,146,8,Extreme Wind,Moderate,High
+HIST-0570,Earthquake,1,4,54,1,High Heat,Minor,Low
+HIST-0571,Wildfire,3,18,309,12,High Heat,Moderate,High
+HIST-0572,Earthquake,2,4,74,6,Rain,Minor,Medium
+HIST-0573,Cyclone,3,19,240,10,Storm,Severe,High
+HIST-0574,Building Collapse,2,9,107,6,Extreme Wind,Severe,Medium
+HIST-0575,Flood,1,5,58,2,Storm,Moderate,Low
+HIST-0576,Flood,2,7,100,4,Storm,Moderate,Medium
+HIST-0577,Cyclone,1,4,53,1,Fog,Minor,Low
+HIST-0578,Landslide,3,31,171,4,Storm,Severe,High
+HIST-0579,Cyclone,4,50,448,9,Storm,Severe,Critical
+HIST-0580,Wildfire,3,30,343,9,Rain,Severe,Critical
+HIST-0581,Tsunami,1,0,35,1,High Heat,Moderate,Low
+HIST-0582,Tsunami,3,15,271,5,Storm,Moderate,High
+HIST-0583,Wildfire,3,19,315,9,Storm,Severe,High
+HIST-0584,Cyclone,2,3,150,2,Fog,Severe,Medium
+HIST-0585,Flood,2,5,158,2,Extreme Wind,Severe,Medium
+HIST-0586,Tsunami,2,2,68,3,Storm,Minor,Medium
+HIST-0587,Landslide,4,54,323,18,Clear,Severe,Critical
+HIST-0588,Building Collapse,2,4,110,2,Extreme Wind,Minor,Medium
+HIST-0589,Cyclone,2,14,73,6,Extreme Wind,Minor,Medium
+HIST-0590,Flood,1,3,45,2,Extreme Wind,Moderate,Low
+HIST-0591,Building Collapse,2,2,166,3,Storm,Severe,Medium
+HIST-0592,Earthquake,4,73,676,24,Clear,Severe,Critical
+HIST-0593,Earthquake,3,17,215,9,Rain,Severe,High
+HIST-0594,Flood,2,11,108,3,Clear,Minor,Medium
+HIST-0595,Cyclone,4,54,622,24,Extreme Wind,Catastrophic,Critical
+HIST-0596,Urban Fire,2,9,121,3,Extreme Wind,Minor,Medium
+HIST-0597,Earthquake,2,13,63,3,Clear,Severe,Medium
+HIST-0598,Tsunami,1,2,50,3,Extreme Wind,Minor,Low
+HIST-0599,Cyclone,3,29,124,4,High Heat,Moderate,High
+HIST-0600,Earthquake,1,0,31,2,Clear,Moderate,Low

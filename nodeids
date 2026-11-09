@@ -1,0 +1,11 @@
+[
+  "tests/test_allocation.py::test_haversine_distance",
+  "tests/test_allocation.py::test_incident_ranking_comparator",
+  "tests/test_demo_flow.py::test_demo_reset",
+  "tests/test_demo_flow.py::test_demo_step_sequence",
+  "tests/test_priority.py::test_critical_incident_calculation",
+  "tests/test_priority.py::test_low_incident_calculation",
+  "tests/test_priority.py::test_minimum_bounds",
+  "tests/test_priority.py::test_normalization_bounds",
+  "tests/test_priority.py::test_severity_thresholds"
+]
